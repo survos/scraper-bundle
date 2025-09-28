@@ -8,7 +8,7 @@
     "license": "MIT",
     "type": "symfony-bundle",
     "require": {
-        "php": "^8.3",
+        "php": "^8.4",
         "ext-pdo": "*",
         "symfony/config": "^7.3",
         "symfony/dependency-injection": "^7.3",
@@ -27,7 +27,7 @@
         "symfony/twig-bundle": "^7.3",
         "symfony/var-dumper": "^7.3",
         "twig/twig": "^3.4",
-        "phpunit/phpunit": "^11.4",
+        "phpunit/phpunit": "^12",
         "psr/log": "^3.0"
     },
     "autoload": {
